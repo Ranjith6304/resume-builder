@@ -1,4 +1,4 @@
-![image](/src/assets/Screenshot.png)
+
 
 # Resume Builder with OpenAI API
 
@@ -14,35 +14,28 @@ The OpenAI Resume Builder is a web application that generates resumes based on u
 ## Getting Started
 
 To get started with the OpenAI Resume Builder, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/AmirhosseinOlyaei/Resume-Builder-React-OpenAI.git
-   ```
-
-2. Install the required dependencies:
+1. Install the required dependencies:
 
    ```
    npm install
    ```
 
-3. Obtain an OpenAI API key. You can sign up for an API key from the [OpenAI website](https://beta.openai.com/signup/).
 
-4. Create a `.env` file in the root directory of your project and store your API key as follows:
+
+2. Create a `.env` file in the root directory of your project and store your API key as follows:
 
    ```
    REACT_APP_OPENAI_API_KEY=your-api-key
 
    ```
 
-5. Start the development server:
+3. Start the development server:
 
    ```
    npm run dev
    ```
 
-6. Access the application in your web browser at `http://localhost:3000` or another port number allocated by your system.
+4. Access the application in your web browser at `http://localhost:3000` or another port number allocated by your system.
 
 ## Usage
 
@@ -64,29 +57,13 @@ To get started with the OpenAI Resume Builder, follow these steps:
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-- This app is powered by the OpenAI API. Visit [OpenAI](https://openai.com) for more information.
-- Special thanks and a shout out to the following individuals and organizations:
 
-  - [Code the Dream](https://codethedream.org/)
-  - [Gaetan](https://www.linkedin.com/in/gaetan-g-siry-40a534b7/)
-  - [Cameron](https://github.com/camerongineer)
 
-## Contact
 
-If you have any questions or feedback, feel free to reach out to [Amir](https://www.linkedin.com/in/amirhossein-olyaei/).
-
-Happy Resume Building!
-
-## Example
-
-![image](/src/assets/Screenshot2.png)
